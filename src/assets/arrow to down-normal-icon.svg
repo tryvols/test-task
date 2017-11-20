@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="7px" viewBox="0 0 11 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow to down</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Modal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01_mobile-views" transform="translate(-1054.000000, -918.000000)" stroke="#B4B5B8">
+            <g id="w-basic" transform="translate(880.000000, 744.000000)">
+                <g id="filter" transform="translate(20.000000, 158.000000)">
+                    <polyline id="arrow-to-down" points="155 17 160 22 165 17.00169"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Modal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01_mobile-views" transform="translate(-207.000000, -796.000000)" fill-rule="nonzero" fill="#B4B5B8">
+            <g id="w-basic" transform="translate(80.000000, 744.000000)">
+                <g id="header" transform="translate(20.000000, 20.000000)">
+                    <g id="edit" transform="translate(101.000000, 26.000000)">
+                        <g id="ic_create_black_24px" transform="translate(4.000000, 4.000000)">
+                            <path d="M2,11.5003472 L2,14 L4.49965283,14 L11.8719622,6.6276906 L9.3723094,4.12803777 L2,11.5003472 Z M13.8050271,4.69462575 C14.064991,4.43466185 14.064991,4.01472018 13.8050271,3.75475628 L12.2452437,2.19497292 C11.9852798,1.93500903 11.5653381,1.93500903 11.3053743,2.19497292 L10.0855437,3.4148035 L12.5851965,5.91445633 L13.8050271,4.69462575 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
