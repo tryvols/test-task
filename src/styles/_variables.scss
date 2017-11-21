@@ -1,5 +1,7 @@
 @import "rules";
 
+// grid
+
 $num-cols: 12 !default;
 $gutter-width: 1.5rem !default;
 $element-top-margin: $gutter-width/3 !default;
@@ -26,9 +28,7 @@ $line-height: 1.33;
 
 $font-middle: 1em;
 $font-small: 0.75em;
-$font-family-bold: "SFUIText Bold";
-$font-family-regular: "SFUIText Regular";
-$font-family-semibold: "SFUIText Semibold";
+$font-family-regular: "SFUITextLight";
 
 // components variables
 
